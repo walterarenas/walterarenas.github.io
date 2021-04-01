@@ -1,3 +1,5 @@
+[About Me](about.md)
+
 ## Welcome to my Website!
 
 [About Me](about.md)
