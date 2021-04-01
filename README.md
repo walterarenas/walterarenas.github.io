@@ -1,5 +1,5 @@
-## Welcome to the Walter Arenas' Website!
+## Welcome to my Website!
 
-This site showcases my professional profile as a software engineer, including my projects, resume, and bio.
+Hi! My name is Walter Arenas. This site showcases my professional profile as a software engineer, including my projects, resume, and bio.
 
 Thank you for visiting!
