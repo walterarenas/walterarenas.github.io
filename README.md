@@ -1,8 +1,8 @@
 ## Welcome to the Walter Arenas' Website!
 
-You can use the [editor on GitHub](https://github.com/walterarenas/walterarenas.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This site showcases my professional profile as a software engineer, including my projects, resume, and bio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you for visiting!
 
 ### Markdown
 
